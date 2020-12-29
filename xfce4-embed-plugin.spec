@@ -1,7 +1,7 @@
 Summary:	Embedding of arbitrary application windows into the Xfce panel.
 Name:		xfce4-embed-plugin
 Version:	1.6.0
-Release:	1
+Release:	2
 License:	LGPL v2
 Group:		X11/Applications
 Source0:	http://archive.xfce.org/src/panel-plugins/xfce4-embed-plugin/1.6/%{name}-%{version}.tar.bz2
